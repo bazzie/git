@@ -1,0 +1,3 @@
+---
+git::manage_repo: true
+git::version: 'latest'
